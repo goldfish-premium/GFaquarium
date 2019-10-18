@@ -1,6 +1,6 @@
 {
   "metadata" : {
-    "realm" : "/",
+    "realm" : "/gold",
     "amsterVersion" : "6.5.2",
     "entityType" : "LdapModule",
     "entityId" : "LDAP",
@@ -10,7 +10,7 @@
     "_id" : "LDAP",
     "authenticationLevel" : 0,
     "userBindPassword" : null,
-    "userBindPassword-encrypted" : "AAAAA0FFUwIQWrP1x2q3LBnpvgEZMYGmViAI/o+qtjO47sQ4AHtZMhcOY1wZ3Z7X8g==",
+    "userBindPassword-encrypted" : "AAAAA0FFUwIQJQrDCjYbxfDd9qXmMs7uZDLvl30TjI/kJBn8juaesKw+43BhQOO0gg==",
     "searchScope" : "SUBTREE",
     "returnUserDN" : true,
     "profileAttributeMappings" : [ ],

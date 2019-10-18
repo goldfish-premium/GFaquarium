@@ -1,6 +1,6 @@
 {
   "metadata" : {
-    "realm" : "/",
+    "realm" : "/gold",
     "amsterVersion" : "6.5.2",
     "entityType" : "Authentication",
     "entityId" : "Authentication",
@@ -34,7 +34,7 @@
       "moduleBasedAuthEnabled" : true,
       "zeroPageLoginAllowedWithoutReferrer" : true,
       "sharedSecret" : null,
-      "sharedSecret-encrypted" : "AAAAA0FFUwIQWBbLz9LaN4V+L1xod0L9dkDd7LhZ0oJWq50Wem1PCdi3kEt4r3ILy295xwzcE71oq6UbCN2UCGeNP7T8zKzY2tTJ7x1T7CSz",
+      "sharedSecret-encrypted" : "AAAAA0FFUwIQTxvfnfdBzC8nb5ti+idJ2bs5gHk5IpLmXbsM4tYF/pLR7L+itGyb+TGGR36EbKJFcDmJYPcA4lBsXnr/rUXTLUrAHSgvH3BK",
       "keyAlias" : "test",
       "zeroPageLoginEnabled" : false,
       "zeroPageLoginReferrerWhiteList" : [ ]
